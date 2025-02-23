@@ -1,4 +1,4 @@
-# Awesome React Component Libraries
+# Animated React Component Libraries
 
 A carefully curated collection of high-quality React component libraries and design systems. Each library has been selected for its unique features, documentation quality, and community support.
 
