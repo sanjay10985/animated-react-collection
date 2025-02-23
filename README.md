@@ -3,7 +3,7 @@
 A carefully curated collection of high-quality React component libraries and design systems. Each library has been selected for its unique features, documentation quality, and community support.
 
 🚀 Goal: Build a Visual UI Component Hub
-This is more than just a curated list! If we reach 25 stars under 25 hours, we'll take this further by creating a platform where:
+This is more than just a curated list! If we reach 100 stars under 24 hours, we'll take this further by creating a platform where:
 
 - ✅ UI components are visually showcased
 - ✅ You can preview components before visiting the source
