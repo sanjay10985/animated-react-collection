@@ -61,6 +61,14 @@ Like this idea? ⭐ Star this repo & help make it happen!
   - Perfect companion for shadcn/ui
   - Automatic file saving features
 
+- [Hyperiux Vault](https://vault.hyperiux.com/) ![GitHub stars](https://img.shields.io/github/stars/Hyperiux-Immersion-Labs/hyperiux-components?style=social)  
+  Animation effects and interactive components for Next.js:
+
+  - Free and Pro effects, installed via CLI
+  - Source copied directly into your project — you own what you install
+  - Built with React, Tailwind, GSAP, and Framer Motion
+  - Growing free tier (32+ effects and counting)
+
 ### Featured Libraries
 
 - [HyperUI](https://www.hyperui.dev/) ![GitHub stars](https://img.shields.io/github/stars/markmead/hyperui?style=social)  
