@@ -67,7 +67,7 @@ Like this idea? ⭐ Star this repo & help make it happen!
   - Free and Pro effects, installed via CLI
   - Source copied directly into your project — you own what you install
   - Built with React, Tailwind, GSAP, and Framer Motion
-  - Growing free tier (32+ effects and counting)
+  - 50+ free effects, 150+ total and counting
 
 ### Featured Libraries
 
